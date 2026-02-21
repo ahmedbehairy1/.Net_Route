@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net_assignment\\.Net_Route\\assignment04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B106A2F8-8A31-46B2-BAD8-95BF9FBC0D5C}|assignment04\\assignment04.csproj|e:\\.net_assignment\\.net_route\\assignment04\\assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B106A2F8-8A31-46B2-BAD8-95BF9FBC0D5C}|assignment04\\assignment04.csproj|solutionrelative:assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B106A2F8-8A31-46B2-BAD8-95BF9FBC0D5C}|assignment04\\assignment04.csproj|e:\\.net_assignment\\.net_route\\assignment04\\assignment04\\enum\\dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B106A2F8-8A31-46B2-BAD8-95BF9FBC0D5C}|assignment04\\assignment04.csproj|solutionrelative:assignment04\\enum\\dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DayOfWeek.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\assignment04\\assignment04\\Enum\\DayOfWeek.cs",
+              "RelativeDocumentMoniker": "assignment04\\Enum\\DayOfWeek.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\assignment04\\assignment04\\Enum\\DayOfWeek.cs",
+              "RelativeToolTip": "assignment04\\Enum\\DayOfWeek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T03:33:54.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\assignment04\\assignment04\\Program.cs",
+              "RelativeDocumentMoniker": "assignment04\\Program.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\assignment04\\assignment04\\Program.cs",
+              "RelativeToolTip": "assignment04\\Program.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwLsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T03:29:59.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
