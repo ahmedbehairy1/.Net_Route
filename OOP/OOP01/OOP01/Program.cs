@@ -69,45 +69,45 @@ namespace OOP01
             #region Part02 
             // Movie ticket booking system 
 
-            Console.Write("Enter Movie Name: ");
-            string movie = Console.ReadLine();
+            //Console.Write("Enter Movie Name: ");
+            //string movie = Console.ReadLine();
 
-            Console.Write("Enter Ticket Type (0 = Standard , 1 = VIP , 2 = IMAX): ");
-            int typeInput = int.Parse(Console.ReadLine());
-            TicketType type = (TicketType)typeInput;
+            //Console.Write("Enter Ticket Type (0 = Standard , 1 = VIP , 2 = IMAX): ");
+            //int typeInput = int.Parse(Console.ReadLine());
+            //TicketType type = (TicketType)typeInput;
 
-            Console.Write("Enter Seat Row (A, B, C...): ");
-            char row = char.Parse(Console.ReadLine());
+            //Console.Write("Enter Seat Row (A, B, C...): ");
+            //char row = char.Parse(Console.ReadLine());
 
-            Console.Write("Enter Seat Number: ");
-            int number = int.Parse(Console.ReadLine());
+            //Console.Write("Enter Seat Number: ");
+            //int number = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter Price: ");
-            double price = double.Parse(Console.ReadLine());
+            //Console.Write("Enter Price: ");
+            //double price = double.Parse(Console.ReadLine());
 
-            Console.Write("Enter Discount Amount: ");
-            double discount = double.Parse(Console.ReadLine());
+            //Console.Write("Enter Discount Amount: ");
+            //double discount = double.Parse(Console.ReadLine());
 
-            Seat seat = new Seat(row, number);
-            Ticket ticket = new Ticket(movie, type, seat, price);
+            //Seat seat = new Seat(row, number);
+            //Ticket ticket = new Ticket(movie, type, seat, price);
 
-            double taxPercent = 14;
+            //double taxPercent = 14;
 
-            Console.WriteLine();
-            ticket.PrintTicket(taxPercent);
+            //Console.WriteLine();
+            //ticket.PrintTicket(taxPercent);
 
-            Console.WriteLine();
-            Console.WriteLine("===== After Discount =====");
-            Console.WriteLine($"Discount Before : {discount:F2}");
+            //Console.WriteLine();
+            //Console.WriteLine("===== After Discount =====");
+            //Console.WriteLine($"Discount Before : {discount:F2}");
 
-            ticket.ApplyDiscount(ref discount);
+            //ticket.ApplyDiscount(ref discount);
 
-            Console.WriteLine($"Discount After  : {discount:F2}");
-            Console.WriteLine($"Movie   : {ticket.MovieName}");
-            Console.WriteLine($"Type    : {ticket.Type}");
-            Console.WriteLine($"Seat    : {ticket.Seat}");
-            Console.WriteLine($"Price   : {ticket.CalcTotal(0) - 0:F2}");
-            Console.WriteLine($"Total ({taxPercent}% tax) : {ticket.CalcTotal(taxPercent):F2}");
+            //Console.WriteLine($"Discount After  : {discount:F2}");
+            //Console.WriteLine($"Movie   : {ticket.MovieName}");
+            //Console.WriteLine($"Type    : {ticket.Type}");
+            //Console.WriteLine($"Seat    : {ticket.Seat}");
+            //Console.WriteLine($"Price   : {ticket.CalcTotal(0) - 0:F2}");
+            //Console.WriteLine($"Total ({taxPercent}% tax) : {ticket.CalcTotal(taxPercent):F2}");
             #endregion
 
         }
