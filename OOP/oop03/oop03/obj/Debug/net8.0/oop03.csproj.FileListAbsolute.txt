@@ -1,0 +1,15 @@
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.AssemblyInfoInputs.cache
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.AssemblyInfo.cs
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.csproj.CoreCompileInputs.cache
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.sourcelink.json
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\bin\Debug\net8.0\oop03.exe
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\bin\Debug\net8.0\oop03.deps.json
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\bin\Debug\net8.0\oop03.runtimeconfig.json
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\bin\Debug\net8.0\oop03.dll
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\bin\Debug\net8.0\oop03.pdb
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.dll
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\refint\oop03.dll
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.pdb
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\oop03.genruntimeconfig.cache
+E:\.Net_assignment\.Net_Route\OOP\oop03\oop03\obj\Debug\net8.0\ref\oop03.dll
