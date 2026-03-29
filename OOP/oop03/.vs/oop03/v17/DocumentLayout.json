@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\.Net_assignment\\.Net_Route\\OOP\\oop03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|solutionrelative:oop03\\vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|solutionrelative:oop03\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|solutionrelative:oop03\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|solutionrelative:oop03\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|solutionrelative:oop03\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\imaxticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|solutionrelative:oop03\\imaxticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|solutionrelative:oop03\\vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{669FB53C-2040-4797-9BA1-05B0CCD5FEFB}|oop03\\oop03.csproj|e:\\.net_assignment\\.net_route\\oop\\oop03\\oop03\\standardticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cinema.cs",
               "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\OOP\\oop03\\oop03\\Cinema.cs",
               "RelativeDocumentMoniker": "oop03\\Cinema.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "oop03\\Cinema.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T15:59:06.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T15:59:06.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Projector.cs",
               "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\OOP\\oop03\\oop03\\Projector.cs",
               "RelativeDocumentMoniker": "oop03\\Projector.cs",
@@ -68,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IMAXTicket.cs",
               "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\OOP\\oop03\\oop03\\IMAXTicket.cs",
               "RelativeDocumentMoniker": "oop03\\IMAXTicket.cs",
@@ -76,12 +75,11 @@
               "RelativeToolTip": "oop03\\IMAXTicket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T15:53:49.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T15:53:49.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "VIPTicket .cs",
               "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\OOP\\oop03\\oop03\\VIPTicket .cs",
               "RelativeDocumentMoniker": "oop03\\VIPTicket .cs",
@@ -102,12 +100,11 @@
               "RelativeToolTip": "oop03\\StandardTicket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T15:43:28.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T15:43:28.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Ticket.cs",
               "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\OOP\\oop03\\oop03\\Ticket.cs",
               "RelativeDocumentMoniker": "oop03\\Ticket.cs",
@@ -120,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\OOP\\oop03\\oop03\\Program.cs",
               "RelativeDocumentMoniker": "oop03\\Program.cs",
