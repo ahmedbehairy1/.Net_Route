@@ -1,0 +1,15 @@
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\bin\Debug\net8.0\Adv2.exe
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\bin\Debug\net8.0\Adv2.deps.json
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\bin\Debug\net8.0\Adv2.runtimeconfig.json
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\bin\Debug\net8.0\Adv2.dll
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\bin\Debug\net8.0\Adv2.pdb
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.AssemblyInfoInputs.cache
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.AssemblyInfo.cs
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.csproj.CoreCompileInputs.cache
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.sourcelink.json
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.dll
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\refint\Adv2.dll
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.pdb
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\Adv2.genruntimeconfig.cache
+E:\.Net_assignment\.Net_Route\Advanced\Adv2\Adv2\obj\Debug\net8.0\ref\Adv2.dll
