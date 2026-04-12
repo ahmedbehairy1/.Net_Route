@@ -1,0 +1,15 @@
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\bin\Debug\net8.0\Linq01.exe
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\bin\Debug\net8.0\Linq01.deps.json
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\bin\Debug\net8.0\Linq01.runtimeconfig.json
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\bin\Debug\net8.0\Linq01.dll
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\bin\Debug\net8.0\Linq01.pdb
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.AssemblyInfoInputs.cache
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.AssemblyInfo.cs
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.csproj.CoreCompileInputs.cache
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.sourcelink.json
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.dll
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\refint\Linq01.dll
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.pdb
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\Linq01.genruntimeconfig.cache
+E:\.Net_assignment\.Net_Route\Linq\Linq01\Linq01\obj\Debug\net8.0\ref\Linq01.dll
