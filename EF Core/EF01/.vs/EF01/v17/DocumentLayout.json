@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|e:\\.net_assignment\\.net_route\\ef core\\ef01\\ef01\\migrations\\20260423132034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|solutionrelative:ef01\\migrations\\20260423132034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|e:\\.net_assignment\\.net_route\\ef core\\ef01\\ef01\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|solutionrelative:ef01\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|e:\\.net_assignment\\.net_route\\ef core\\ef01\\ef01\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|solutionrelative:ef01\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|e:\\.net_assignment\\.net_route\\ef core\\ef01\\ef01\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|solutionrelative:ef01\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|e:\\.net_assignment\\.net_route\\ef core\\ef01\\ef01\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|solutionrelative:ef01\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|e:\\.net_assignment\\.net_route\\ef core\\ef01\\ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA6200-3BF1-48E1-B5F2-4289E9A38452}|EF01\\EF01.csproj|solutionrelative:ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260423132034_InitialCreate.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Migrations\\20260423132034_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EF01\\Migrations\\20260423132034_InitialCreate.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Migrations\\20260423132034_InitialCreate.cs",
+              "RelativeToolTip": "EF01\\Migrations\\20260423132034_InitialCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:20:35.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EF01\\Models\\Category.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Models\\Category.cs",
+              "RelativeToolTip": "EF01\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:04:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "EF01\\Models\\Author.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Models\\Author.cs",
+              "RelativeToolTip": "EF01\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:00:02.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EF01\\Models\\Book.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Models\\Book.cs",
+              "RelativeToolTip": "EF01\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:52:10.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "EF01\\BookStoreDbContext.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\BookStoreDbContext.cs",
+              "RelativeToolTip": "EF01\\BookStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:41:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Program.cs",
+              "RelativeDocumentMoniker": "EF01\\Program.cs",
+              "ToolTip": "E:\\.Net_assignment\\.Net_Route\\EF Core\\EF01\\EF01\\Program.cs",
+              "RelativeToolTip": "EF01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:23:44.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
